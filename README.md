@@ -13,6 +13,14 @@ This repository contains the HTML, CSS, and JavaScript code for a shoe landing p
 
 The shoe landing page is designed for a fictional shoe brand, "Nike," and serves as a promotional website for showcasing various shoe variants. It features a navigation menu, a header section with product details, and a footer with links to different sections of the website.
 
+![White Hero section](/assets/Sample/wh-her.png)
+![Orange Hero section](/assets/Sample/og-hero.png)
+![Orange mid section](/assets/Sample/og-mid.png)
+![Orange foot section](/assets/Sample/og-foot.png)
+![Black Hero section](/assets/Sample/bk-hero.png)
+![Black mid section](/assets/Sample/bk-mid.png)
+![Black foot section](/assets/Sample/bk-foot.png)
+
 ## Project Structure
 
 The project structure consists of three main components:
